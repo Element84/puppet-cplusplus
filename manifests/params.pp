@@ -5,7 +5,7 @@ class cplusplus::params{
        $cplusplus_package = 'gcc-c++'
     }
     'ubuntu', 'debian': {
-       $cplusplus_package = 'gcc-c++'
+       $cplusplus_package = 'g++'
     }
   }
 }
