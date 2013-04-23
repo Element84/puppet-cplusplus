@@ -7,5 +7,9 @@ class cplusplus::params{
     'ubuntu', 'debian': {
        $cplusplus_package = 'g++'
     }
+    'Archlinux': {
+            $cplusplus_package = 'gcc'
+    }
+
   }
 }
